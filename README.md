@@ -2,9 +2,9 @@
 
 #### EN COURS DE CREATION...
 
-## Outils bureautiques en lien avec la musique
+## Outils en lien avec la musique
 
-### Comment choisir son harmonica diatonique pour jouer sur un morceau
+### Le choix de l'harmonica diatonique en fonction de la tonalité d'un morceau
 
 Fichier : XXXXXX.XXX
 
