@@ -10,11 +10,14 @@ Fichier : XXXXXX.XXX
 
 
 
-## Les gammes, les tonalités, les accords et la transposition
+## Les degrés, les intervalles, les gammes, les tonalités et les accords
 
-Fichier : Transposeur.xls
+Fichier : Accords.xls
 
-NB : Télécharger le fichier Excel sur votre ordinateur avant de l'utiliser.
+Précise le chiffrage et la composition (notes) d'une grande quantité d'accords utilisés dans tous les styles de musique.
+
+1. Télécharger le fichier Excel sur votre ordinateur.
+1. Entrer le nombre correspondant à la note de départ choisie.
 
 
 © Henri 13/12/19
