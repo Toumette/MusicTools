@@ -3,16 +3,12 @@
 #### _EN COURS DE CREATION..._
 
 ## Outils en lien avec la musique
-
-
 ---
-
 ### Le choix de l'harmonica diatonique en fonction de la tonalité d'un morceau
 
 Fichier : XXXXXX.XXX
 
 ---
-
 ### La transposition
 
 Fichier : **Transposeur.xls**
