@@ -7,7 +7,9 @@
 ---
 ### Le choix d'un harmonica diatonique en fonction de la tonalité d'un morceau
 
-Fichier : **XXXXXX.XXX**
+Fichier : **Harmonica.ods**
+
+En fonction de la tonalité du morceau et de la position de jeu choisie, ce tableau donne la tonalité de l'harmonica diatonique à utiliser.
 
 ---
 ### La transposition
