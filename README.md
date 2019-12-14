@@ -4,10 +4,13 @@
 
 ## Outils en lien avec la musique
 
+---
+
 ### Le choix de l'harmonica diatonique en fonction de la tonalité d'un morceau
 
 Fichier : XXXXXX.XXX
 
+---
 
 ### La transposition
 
@@ -19,6 +22,7 @@ Réalise la transposition d'une gamme dans une autre en plaçant en regard chacu
 
 1. Entrer la valeur correspondant au nombre de demi-tons de la transposition à réaliser. Ex. taper 1 transposer un demi-ton plus haut et -4 pour transposer 2 tons plus bas.
 
+---
 
 ### Les degrés, les intervalles, les gammes, les tonalités et les accords
 
@@ -30,5 +34,5 @@ Précise le chiffrage et la composition (notes) d'une grande quantité d'accords
 
 1. Entrer le nombre correspondant à la note de départ choisie. Ex. taper 1 pour voir toutes les gammes et tous les accords de DO.
 
-
-© Henri 13/12/19
+---
+_© Henri 13/12/19_
