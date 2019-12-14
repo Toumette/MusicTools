@@ -10,10 +10,11 @@ Fichier : XXXXXX.XXX
 
 
 
-## Les gammes, les tonalités et les accords (dénomination et composition)
+## Les gammes, les tonalités, les accords et la transposition
 
-Fichier : XXXXXX.XXX
+Fichier : Transposeur.xls
 
+NB : Télécharger le fichier Excel sur votre ordinateur avant de l'utiliser.
 
 
 © Henri 13/12/19
