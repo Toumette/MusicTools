@@ -9,7 +9,7 @@
 
 Fichier : **Harmonica.ods**
 
-En fonction de la tonalité du morceau et de la position de jeu choisie, ce tableau donne les tonalités d'harmonica diatonique à préférer.
+En fonction de la tonalité du morceau et de la position de jeu choisie, ce tableau donne la tonalité de l'harmonica diatonique à utiliser.
 
 ---
 ### La transposition
