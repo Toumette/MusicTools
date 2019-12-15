@@ -2,7 +2,7 @@
 
 ## Outils en lien avec la musique
 
----
+
 ### Le choix d'un harmonica diatonique en fonction de la tonalité d'un morceau
 
 Fichier : **Harmonica.ods**
