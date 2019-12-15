@@ -32,7 +32,7 @@ Réalise la transposition d'une gamme dans une autre en plaçant en regard chacu
 
 Fichier : **Accords.xls**
 
-Précise le chiffrage et la composition (notes) d'une grande quantité d'accords utilisés dans tous les styles de musique.
+Précise la notation (chiffrage) et la composition (notes) d'une grande quantité d'accords utilisés dans tous les styles de musique.
 
 1. Télécharger le fichier Tableur Excel **"Accords.xls"** sur votre ordinateur.
 
