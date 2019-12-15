@@ -17,7 +17,7 @@ En fonction de la tonalité du morceau et de la position de jeu choisie, ce tabl
 
 1. En regard, dans la colonne de gauche, on trouve la tonalité de l'harmonica diatonique à utiliser.
 
-1. Il est possible d'essayer aussi les tonalités d'harmionicas qui correspondent aux positions 1, 3, 4, 5, 12.
+1. Il est possible d'essayer aussi les tonalités d'harmonicas qui correspondent aux positions 1, 3, 4, 5, 12.
 
 ---
 ### La transposition
