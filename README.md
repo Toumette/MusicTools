@@ -39,7 +39,7 @@ Précise la notation (chiffrage) et la composition (notes) d'une grande quantit�
 1. Dans la case indiquée, entrer le nombre correspondant à la note de départ choisie. Ex. taper **"1"** pour voir toutes les gammes et tous les accords de **DO**.
 ---
 
-<p style='text-align: right;'>
+<p style='text-align:right;'>
 Your Text
 </p>
 
