@@ -32,4 +32,4 @@ Précise le chiffrage et la composition (notes) d'une grande quantité d'accords
 
 1. Entrer le nombre correspondant à la note de départ choisie. Ex. taper 1 pour voir toutes les gammes et tous les accords de DO.
 ---
-<div style="text-align: right">© Henri 13/12/19</div>
+_© Henri 13/12/19_
