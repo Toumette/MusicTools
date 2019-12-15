@@ -2,8 +2,6 @@
 
 ## Outils en lien avec la musique
 
-#### _EN COURS DE CREATION..._
-
 ---
 ### Le choix d'un harmonica diatonique en fonction de la tonalité d'un morceau
 
