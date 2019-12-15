@@ -37,10 +37,6 @@ Précise la notation (chiffrage) et la composition (notes) d'une grande quantit�
 1. Télécharger le fichier Tableur Excel **"Accords.xls"** sur votre ordinateur.
 
 1. Dans la case indiquée, entrer le nombre correspondant à la note de départ choisie. Ex. taper **"1"** pour voir toutes les gammes et tous les accords de **DO**.
+
 ---
-
-<p style='text-align:center;'>
-Your Text
-</p>
-
 _© Henri 13/12/19_
