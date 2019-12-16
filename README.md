@@ -11,7 +11,7 @@ En fonction de la tonalité du morceau et de la position de jeu choisie, ce tabl
 
 1. Télécharger le fichier Tableur Calc **"Harmonica.ods"** sur votre ordinateur.
 
-1. Dans le tableau, repérer la case correspondant à la tonalité du morceau et la position de jeu choisie (en général, la 2ème position).
+1. Dans le tableau, repérer la case correspondant à la tonalité du morceau et à la position de jeu choisie (en général, la 2ème position).
 
 1. En regard, dans la colonne de gauche, on trouve la tonalité de l'harmonica diatonique à utiliser.
 
