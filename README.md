@@ -40,4 +40,4 @@ Précise la notation (chiffrage) et la composition (notes) d'une grande quantit�
 1. Dans la case indiquée, entrer le nombre correspondant à la note de départ choisie. Ex. taper **"1"** pour voir toutes les gammes et tous les accords de **DO**.
 
 ---
-_© Henri 13/12/19_
+_© Henri 13/12/19 - Plus d'informations : https://henri.nitnoc.me_
